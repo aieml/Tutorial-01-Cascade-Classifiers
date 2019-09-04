@@ -15,8 +15,9 @@ This repository contains two pretrained cascade classifers for detecting face an
 ```python
 import cv2
 
-face_clsfr=cv2.CascadeClassifier('Cascades\Face & Eyes\haarcascade_frontalface_default.xml')
-eye_clsfr=cv2.CascadeClassifier('Cascades\Face & Eyes\haarcascade_eye_tree_eyeglasses.xml')
+face_clsfr=cv2.CascadeClassifier('Cascades\haarcascade_frontalface_default.xml')
+#loading the cascade classi
+eye_clsfr=cv2.CascadeClassifier('Cascades\haarcascade_eye_tree_eyeglasses.xml')
 
 camera=cv2.VideoCapture(0)
 
