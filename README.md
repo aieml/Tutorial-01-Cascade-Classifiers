@@ -10,7 +10,7 @@ Here we will work with face detection. Initially, the algorithm needs a lot of p
 
 ## How to detect objects using cascade classifiers
 
-This repository contains two pretrained cascade classifers for detecting face and eyes. You can download more cascade classifiers from [here](https://github.com/opencv/opencv/tree/master/data/haarcascades)
+This repository contains two pretrained cascade classifers for detecting face and eyes. You can download more cascade classifiers (which detect various objects like vehicles, sign boards and etc) from [here](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
 ```python
 import cv2
@@ -62,3 +62,7 @@ while(True):
 ### x,y,w,h in the image
 
 <img src="https://miro.medium.com/max/1360/0*De1DLB3Io5DAzfWl." width="400">
+
+## Assignment
+
+Download the repository and modify the code ''
