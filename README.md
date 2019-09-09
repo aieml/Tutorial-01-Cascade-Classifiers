@@ -1,4 +1,4 @@
-# Tutorial-02
+# Tutorial-01
 In this tutorial you will learn about cascade classifiers a technology introduced in early 2000's for object detection. At the end of the tutorial you will have a assignment based on Cascade Classifiers. 
 
 ## Introduction
