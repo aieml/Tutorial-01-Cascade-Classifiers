@@ -59,6 +59,6 @@ while(True):
     #showing the frame
 ```
 
-### ,y,w,h in the image
+### x,y,w,h in the image
 
 <img src="https://miro.medium.com/max/1360/0*De1DLB3Io5DAzfWl." width="400">
