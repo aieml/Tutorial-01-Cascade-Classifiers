@@ -65,4 +65,6 @@ while(True):
 
 ## Assignment
 
-Download the repository and modify the code ''
+Download the repository and modify the code "1.0 Face Detection" code and modify the code to show whether the detected human is sleeping or not. show the result as shown in the figure below.
+
+<img src="https://i.ytimg.com/vi/NGCRkPrcQkQ/maxresdefault.jpg" width="400">
